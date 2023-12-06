@@ -1,0 +1,24 @@
+# HTML Basics
+# HTML Tags
+HTML code tells web browsers how to display content 
+like images, links, and text on a webpage.
+
+HTML is a computer markup language that structures all
+the webpages on the internet.
+
+HTML, things revolve around tags. Tags start with "<",followed by a keyword, 
+then finished with a ">".
+
+Most tags in HTML come in a pair, 
+they have an opening tag and a closing tag. 
+What you coded earlier is the opening tag of a button element.
+
+Text and Headings
+
+In HTML, the keywords of some tags are obvious, but 
+there are some tags that use a shortened form.
+- p for a paragraph.
+- We can create headings in HTML to emphasize certain texts. 
+There are 6 sizes of heading in HTML, from h1 to h6.
+
+let's continue

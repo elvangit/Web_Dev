@@ -33,4 +33,4 @@ async def on_member_join(self, member):
         await guild.system_channel.send(to_send)
         await guild.system_channel.send("try $halo or $bye or pass")
 
-client.run("")
+client.run("TOKEN")
